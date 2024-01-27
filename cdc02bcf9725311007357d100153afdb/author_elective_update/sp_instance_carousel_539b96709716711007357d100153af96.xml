@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_carousel">
+    <sp_instance_carousel action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <interval>5000</interval>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">c7ad8daa974e311007357d100153af1d</sp_column>
+        <sp_widget display_value="Carousel">cf1a5153cb21020000f8d856634c9c3c</sp_widget>
+        <sys_class_name>sp_instance_carousel</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-01 23:53:08</sys_created_on>
+        <sys_id>539b96709716711007357d100153af96</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Astra</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva">cdc02bcf9725311007357d100153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</sys_scope>
+        <sys_update_name>sp_instance_carousel_539b96709716711007357d100153af96</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-01 23:57:20</sys_updated_on>
+        <title>Astra</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_carousel>
+    <sys_translated_text action="DELETE" query="documentkey=539b96709716711007357d100153af96"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sp_instance_carousel_539b96709716711007357d100153af96</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_carousel"><sp_instance_carousel action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><interval>5000</interval><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="2">c7ad8daa974e311007357d100153af1d</sp_column><sp_widget display_value="Carousel">cf1a5153cb21020000f8d856634c9c3c</sp_widget><sys_class_name>sp_instance_carousel</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-01 23:53:08</sys_created_on><sys_id>539b96709716711007357d100153af96</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Astra</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva">cdc02bcf9725311007357d100153afdb</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</sys_scope><sys_update_name>sp_instance_carousel_539b96709716711007357d100153af96</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-01 23:57:20</sys_updated_on><title>Astra</title><url/><widget_parameters/></sp_instance_carousel><sys_translated_text action="delete_multiple" query="documentkey=539b96709716711007357d100153af96"/></record_update>]]></payload>
+        <payload_hash>323000638</payload_hash>
+        <record_name>Astra</record_name>
+        <reverted_from/>
+        <source>5a51af4f9725311007357d100153afce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-01 23:57:20</sys_created_on>
+        <sys_id>7c9c9e709716711007357d100153af39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b8d51f6160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-01 23:57:20</sys_updated_on>
+        <type>Instance of Carousel</type>
+        <update_guid>749c9e708e167110b5429010802ab839</update_guid>
+        <update_guid_history>749c9e708e167110b5429010802ab839:323000638,1f9b9670181671101d4a4a896ee80097:889868395</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Astra">722d12f09716711007357d100153af7a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-01 23:59:56</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_carousel">sp_instance_carousel</sys_db_object>
+        <sys_id>44fc4cf585834384b19cf912483db6e9</sys_id>
+        <sys_metadata>539b96709716711007357d100153af96</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Astra</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva">cdc02bcf9725311007357d100153afdb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</sys_scope>
+        <sys_scope_delete display_value="">18e2e97c36484f3f887e81a69dd97799</sys_scope_delete>
+        <sys_update_name>sp_instance_carousel_539b96709716711007357d100153af96</sys_update_name>
+        <sys_update_version display_value="sp_instance_carousel_539b96709716711007357d100153af96">7c9c9e709716711007357d100153af39</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-01 23:59:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

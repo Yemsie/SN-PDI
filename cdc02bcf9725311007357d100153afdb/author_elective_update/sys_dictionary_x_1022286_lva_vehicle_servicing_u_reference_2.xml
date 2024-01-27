@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_reference_2" table="x_1022286_lva_vehicle_servicing">
+        <active>true</active>
+        <array>false</array>
+        <attributes>encode_utf8=false</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Vehicle</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_reference_2</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>true</mandatory>
+        <max_length>32</max_length>
+        <name>x_1022286_lva_vehicle_servicing</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="x_1022286_lva_loaner_vehicle_catalog">x_1022286_lva_loaner_vehicle_catalog</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 16:07:18</sys_created_on>
+        <sys_id>f674e03f9721311007357d100153af79</sys_id>
+        <sys_name>Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva">cdc02bcf9725311007357d100153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</sys_scope>
+        <sys_update_name>sys_dictionary_x_1022286_lva_vehicle_servicing_u_reference_2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-10 13:59:15</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sys_dictionary_x_1022286_lva_vehicle_servicing_u_reference_2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_reference_2" table="x_1022286_lva_vehicle_servicing"><active>true</active><array>false</array><attributes>encode_utf8=false</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Vehicle</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_reference_2</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>true</mandatory><max_length>32</max_length><name>x_1022286_lva_vehicle_servicing</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="x_1022286_lva_loaner_vehicle_catalog">x_1022286_lva_loaner_vehicle_catalog</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-04 16:07:18</sys_created_on><sys_id>f674e03f9721311007357d100153af79</sys_id><sys_name>Vehicle</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva">cdc02bcf9725311007357d100153afdb</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</sys_scope><sys_update_name>sys_dictionary_x_1022286_lva_vehicle_servicing_u_reference_2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-10 13:59:15</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1290186531</payload_hash>
+        <record_name>Vehicle Servicing.Vehicle</record_name>
+        <reverted_from/>
+        <source>5a51af4f9725311007357d100153afce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-10 13:59:15</sys_created_on>
+        <sys_id>91b0476d9779f11007357d100153af65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b19e27e0c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-10 13:59:15</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>59b0476db479f1102b892aaf063bcc64</update_guid>
+        <update_guid_history>59b0476db479f1102b892aaf063bcc64:1290186531,0bb234bb00613110bd7b50b9e64bcb33:415901934,d2882433bc6131102186d97aafcdf527:-2003133196,cf74e03f852131103ef06e059d1826cd:-2138508311,7e74e03fdf213110c94b6e4e7d78729e:-2003133196</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-01 14:35:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>3838e4629ba248a1b814d16e169f17d9</sys_id>
+        <sys_metadata>f674e03f9721311007357d100153af79</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva">cdc02bcf9725311007357d100153afdb</sys_package>
+        <sys_parent display_value="Vehicle Servicing">3520203b9721311007357d100153aff5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</sys_scope>
+        <sys_scope_delete display_value="">18e2e97c36484f3f887e81a69dd97799</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1022286_lva_vehicle_servicing_u_reference_2</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1022286_lva_vehicle_servicing_u_reference_2">91b0476d9779f11007357d100153af65</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-01 14:35:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

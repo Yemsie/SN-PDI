@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>hourglass-half</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">c7ad8daa974e311007357d100153af1d</sp_column>
+        <sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 04:17:57</sys_created_on>
+        <sys_id>9a15536a9746711007357d100153af1e</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Current Deals</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva">cdc02bcf9725311007357d100153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</sys_scope>
+        <sys_update_name>sp_instance_9a15536a9746711007357d100153af1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-01 23:49:00</sys_updated_on>
+        <title>Current Deals</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "Current Deals",
+		"displayValue": "Current Deals"
+	},
+	"glyph": {
+		"value": "hourglass-half",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "67eaf134e7a3320075c2a117c2f6a9d2",
+		"displayValue": "Widget"
+	},
+	"paginate": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"max_records": {
+		"value": 5,
+		"displayValue": "5"
+	},
+	"view_all_page": {
+		"value": "b83d12f65b4132003d1c484c11f91ab2",
+		"displayValue": "bhome"
+	},
+	"use_display_style": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=9a15536a9746711007357d100153af1e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sp_instance_9a15536a9746711007357d100153af1e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;hourglass-half&lt;/glyph&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;c7ad8daa974e311007357d100153af1d&lt;/sp_column&gt;&lt;sp_widget display_value="Announcements"&gt;94c300c7e777320075c2a117c2f6a9e7&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-10-26 04:17:57&lt;/sys_created_on&gt;&lt;sys_id&gt;9a15536a9746711007357d100153af1e&lt;/sys_id&gt;&lt;sys_mod_count&gt;16&lt;/sys_mod_count&gt;&lt;sys_name&gt;Current Deals&lt;/sys_name&gt;&lt;sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva"&gt;cdc02bcf9725311007357d100153afdb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Vehicle Request and Inventory"&gt;cdc02bcf9725311007357d100153afdb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_9a15536a9746711007357d100153af1e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-01 23:49:00&lt;/sys_updated_on&gt;&lt;title&gt;Current Deals&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "Current Deals",
+		"displayValue": "Current Deals"
+	},
+	"glyph": {
+		"value": "hourglass-half",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "67eaf134e7a3320075c2a117c2f6a9d2",
+		"displayValue": "Widget"
+	},
+	"paginate": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"max_records": {
+		"value": 5,
+		"displayValue": "5"
+	},
+	"view_all_page": {
+		"value": "b83d12f65b4132003d1c484c11f91ab2",
+		"displayValue": "bhome"
+	},
+	"use_display_style": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=9a15536a9746711007357d100153af1e"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1064362104</payload_hash>
+        <record_name>Current Deals</record_name>
+        <reverted_from/>
+        <source>5a51af4f9725311007357d100153afce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-01 23:49:00</sys_created_on>
+        <sys_id>f6aa96309716711007357d100153afa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b8d4a558a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-01 23:49:00</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>feaa96309f167110bd0815013b4018a3</update_guid>
+        <update_guid_history>feaa96309f167110bd0815013b4018a3:1064362104,a72adefc9ed2711043ed5c053cbca40d:632685087,cf9932ccec123110ca7487904934f66d:1671041794,6a0e53e29786711050804b6f8c2f2414:-912706453,cc0e5ba2f486711084e7f4c4036d949c:-388275745,dbbddba28d86711078862b37d438f246:-1954894307,1a7d5feee14671106b57b2d898983178:-1083200639,d84d17a21d867110440e4f30cad5004b:1613137353,c93c936e78467110a711979bea5a3445:-181952381,979b9bae5d4671103850b127b6f7b739:-1020731291,059bdfee16467110e779839831e870d5:529154413,1adadfee18467110a1330f283dec9a90:-547876710,c7f593ea9b467110e6c1bc5e0226e85d:1454069660,bae553ea77467110c087b2e46d5bc576:829098972,9ed513ea254671104bbda14914d16b33:-1214190918,29b557aa4a4671104f72f26b34f81e51:829098972,9e15536a8c467110d786e2a0df930c1f:990673804</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Current Deals">3bba1a309716711007357d100153af33</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-01 23:49:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>c7b1e9c7a7ef45549de7ff2ff5e2a4c9</sys_id>
+        <sys_metadata>9a15536a9746711007357d100153af1e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Current Deals</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva">cdc02bcf9725311007357d100153afdb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</sys_scope>
+        <sys_scope_delete display_value="">18e2e97c36484f3f887e81a69dd97799</sys_scope_delete>
+        <sys_update_name>sp_instance_9a15536a9746711007357d100153af1e</sys_update_name>
+        <sys_update_version display_value="sp_instance_9a15536a9746711007357d100153af1e">f6aa96309716711007357d100153afa4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-01 23:49:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
