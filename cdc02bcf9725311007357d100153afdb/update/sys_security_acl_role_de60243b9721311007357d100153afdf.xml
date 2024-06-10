@@ -14,6 +14,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-10-04 15:49:32</sys_updated_on>
         <sys_user_role display_value="x_1022286_lva.vehicle_servicing_user" name="x_1022286_lva.vehicle_servicing_user">0660a4f79721311007357d100153af1a</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

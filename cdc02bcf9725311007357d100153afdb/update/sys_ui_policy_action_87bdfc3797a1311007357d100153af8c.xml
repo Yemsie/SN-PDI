@@ -3,6 +3,8 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field>location</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
         <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -18,6 +20,8 @@
         <sys_updated_on>2023-10-04 17:57:57</sys_updated_on>
         <table>x_1022286_lva_vehicle_tracker</table>
         <ui_policy display_value="Vehicle pending release or out on field">f859f83397a1311007357d100153af7e</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
         <visible>ignore</visible>
     </sys_ui_policy_action>
 </record_update>

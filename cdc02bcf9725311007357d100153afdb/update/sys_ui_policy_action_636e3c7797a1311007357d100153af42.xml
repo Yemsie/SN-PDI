@@ -3,6 +3,8 @@
         <cleared>false</cleared>
         <disabled>false</disabled>
         <field>actual_return_date</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
         <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -18,6 +20,8 @@
         <sys_updated_on>2023-10-04 18:02:38</sys_updated_on>
         <table>x_1022286_lva_vehicle_tracker</table>
         <ui_policy display_value="Vehicle returned for Insp">643e387797a1311007357d100153af09</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
         <visible>ignore</visible>
     </sys_ui_policy_action>
 </record_update>

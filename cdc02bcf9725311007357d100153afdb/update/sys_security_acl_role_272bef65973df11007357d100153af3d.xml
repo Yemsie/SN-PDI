@@ -14,6 +14,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-10-10 17:05:07</sys_updated_on>
         <sys_user_role display_value="user" name="user">b05926fa0a0a0aa7000130023e0bde98</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>
