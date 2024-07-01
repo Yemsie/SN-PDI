@@ -47,11 +47,13 @@
             gliderec.status = 'Available';
         } else if (vehiclestatus == 'decommissioned') {
             gliderec.status = 'Decommissioned';
-        }
+        } else {
+			console.log('Veh not found');
 
         gliderec.update();
         // Update the Vehicle status with the new status
     }
+	};
 	})(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -59,7 +61,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8468f5d89786311007357d100153af3d</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Vehicle Status Field Unavailable</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1022286_lva">cdc02bcf9725311007357d100153afdb</sys_package>
@@ -67,7 +69,7 @@
         <sys_scope display_value="Loaner Vehicle Request and Inventory">cdc02bcf9725311007357d100153afdb</sys_scope>
         <sys_update_name>sys_script_8468f5d89786311007357d100153af3d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-31 23:52:56</sys_updated_on>
+        <sys_updated_on>2024-06-21 17:31:49</sys_updated_on>
         <template>return_vehicle_status=^EQ</template>
         <when>after</when>
     </sys_script>
